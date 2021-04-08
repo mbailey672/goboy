@@ -6,7 +6,7 @@ The purpose of this project is not to develop the most accurate emulator or the 
 
 # Resources
 
-I'm going to keep a list of any resources I reference as I think it could be interesting to look back at (and helpful if you're headed down the same path I am!). My reference ethos is avoiding Here's a start:
+I'm going to keep a list of any resources I reference as I think it could be interesting to look back at (and helpful if you're headed down the same path I am!). Here's a start:
 
 - OneLonelyCoder's series on making a NES emulator, which you [can find here](https://www.youtube.com/watch?v=F8kx56OZQhg).
 - http://marc.rawer.de/Gameboy/Docs/GBCPUman.pdf
